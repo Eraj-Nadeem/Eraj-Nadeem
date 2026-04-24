@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, <br>I'm Syeda Eraj Nadeem<br>Beginner in AI/ML, learning to build real-world projects step by step.<br><br>I’m currently working on improving my skills through small projects in Python, AI/ML, and frontend<br>I’m currently learning Machine Learning, React, and Vue<br>I’m looking to collaborate on beginner-friendly projects and simple web or AI-based ideas<br>I share what I learn here: https://wizardsavvy.wordpress.com/<br>Projects: https://eraj-nadeem.github.io/<br>Reach me at: syedaerajn@gmail.com<br>Fun fact: I enjoy photography when I’m not coding 📸<br><br>
+# About Me:
+Hi, <br>I'm Syeda Eraj Nadeem<br>Beginner in AI/ML, learning to build real-world projects step by step.<br><br>I’m currently working on improving my skills through small projects in Python, AI/ML, and frontend<br>I’m currently learning Machine Learning, React, and Vue<br>I’m looking to collaborate on beginner-friendly projects and simple web or AI-based ideas<br>I share what I learn here: https://wizardsavvy.wordpress.com/<br>Projects: https://eraj-nadeem.github.io/<br>Reach me at: syedaerajn@gmail.com<br>Fun fact: I enjoy photography when I’m not coding 📸<br><br>
 
 
 ## 🌐 Socials:
